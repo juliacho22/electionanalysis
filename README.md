@@ -34,14 +34,14 @@ This project analyzes the election turnout and results for a Colorado election b
 ## Challenge Summary 
 ## Election Audit Results
 ### County Turnout 
-Out of the three counties, Denver County had the largest turnout of 306,055 votes, which is 82.8% of the voter population. Jefferson County and Arapahoe County brought in 38,855 (10.5%) and 24,801 (6.7%) voters turn out. 
+Out of the three counties, Denver County had the largest turnout of 306,055 votes, which is 82.8% of the voter population. Jefferson County and Arapahoe County brought in 38,855 (10.5%) and 24,801 (6.7%) voters turn out.\ 
 ![VoterTurnout](https://github.com/juliacho22/electionanalysis/blob/main/Resources/VoterTurnout.PNG)
 
 ### Candidate Results  
 - Charles Casper Stockham received 85,213 of the votes, which made up 23.0% of the total
 - Diana DeGette received 272,892 of the votes, which made up 73.8% of the total
 - Raymon Anthony Doane received 11,606 of the votes, which made up 3.1%  of the total
-Therefore, Diana DeGette is the winning candidate in this election. 
+Therefore, Diana DeGette is the winning candidate in this election.\
 ![ElectionResult](https://github.com/juliacho22/electionanalysis/blob/main/Resources/ElectionResult.PNG)
 
 ### Election Audit Summary 
