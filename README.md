@@ -34,7 +34,7 @@ This project analyzes the election turnout and results for a Colorado election b
 ## Challenge Summary 
 ## Election Audit Results
 ### County Turnout 
-Out of the three counties, Denver County had the largest turnout of 306,055 votes, which is 82.8% of the voter population. Jefferson County and Arapahoe County brought in 38,855 (10.5%) and 24,801 (6.7%) voters turn out. 
+Out of the three counties, Denver County had the largest turnout of 306,055 votes, which is 82.8% of the voter population. Jefferson County and Arapahoe County brought in 38,855 (10.5%) and 24,801 (6.7%) voters turn out. \
 ![VoterTurnout](https://github.com/juliacho22/electionanalysis/blob/main/Resources/VoterTurnout.PNG)
 
 ### Candidate Results  
